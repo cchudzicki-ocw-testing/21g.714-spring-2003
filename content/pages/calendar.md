@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section is written in Spanish. It provides the schedule
+  of course topics and activities.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
